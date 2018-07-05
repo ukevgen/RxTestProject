@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/example/eugene/rxtestproject/Extensions.kt" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/example/eugene/rxtestproject/RxLog.kt" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/example/eugene/rxtestproject/android/di/qualifier/thread" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/example/eugene/rxtestproject/android/ui/BaseActivity.kt" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/example/eugene/rxtestproject/android/ui/BaseDialogFragment.kt" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/example/eugene/rxtestproject/android/ui/BaseFragment.kt" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/example/eugene/rxtestproject/data/executor/IORouteDataWorkerExecutor.kt" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/example/eugene/rxtestproject/data/executor/IOStopDataWorkerExecutor.kt" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/example/eugene/rxtestproject/data/executor/RealmExecutor.kt" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/example/eugene/rxtestproject/data/executor/UIThreadExecutor.kt" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/example/eugene/rxtestproject/domain/executor/Executor.kt" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/example/eugene/rxtestproject/domain/executor/IOExecutionThread.kt" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/example/eugene/rxtestproject/domain/executor/ThreadExecutor.kt" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/example/eugene/rxtestproject/domain/executor/UIExecutionThread.kt" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/example/eugene/rxtestproject/domain/executor/WorkExecutionThread.kt" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/example/eugene/rxtestproject/presentation/BasePresenter.kt" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/example/eugene/rxtestproject/presentation/Presenter.kt" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/example/eugene/rxtestproject/presentation/PresenterView.kt" charset="windows-1251" />
+  </component>
+</project>
